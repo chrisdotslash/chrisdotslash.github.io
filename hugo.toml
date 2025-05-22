@@ -6,3 +6,31 @@ theme = 'hugo-PaperMod'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[menus]
+
+# Main menu
+[[menus.main]]
+name = "Home"
+pageRef = "/"
+weight = 10
+
+[[menus.main]]
+name = "About"
+pageRef = "/about"
+weight = 20
+
+[[menus.main]]
+name = "Software"
+pageRef = "/contact"
+weight = 30
+
+[[menus.main]]
+name = "Projects"
+pageRef = "/contact"
+weight = 40
+
+[[menus.main]]
+name = "Contact"
+pageRef = "/contact"
+weight = 50
