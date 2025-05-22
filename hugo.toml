@@ -1,0 +1,4 @@
+baseURL = 'https://chriseborowski.github.io/mypage/'
+languageCode = 'en-us'
+title = 'Chris Borowski'
+theme = 'ananke'
