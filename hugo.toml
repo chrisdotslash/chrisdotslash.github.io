@@ -31,6 +31,11 @@ pageRef = "/reading"
 weight = 40
 
 [[menus.main]]
+name = "Learning"
+pageRef = "/learning"
+weight = 50
+
+[[menus.main]]
 name = "Contact"
 pageRef = "/contact"
-weight = 50
+weight = 60
