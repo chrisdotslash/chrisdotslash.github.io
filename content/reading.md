@@ -18,5 +18,7 @@ Below is a list of tech content I've read recently, in reverse chronological ord
 
 ### Mathematics
 
+- [Mathematical Gambles: The Remarkable Lore of the Prime Numbers ↗](https://2024.sci-hub.ru/1056/be114319c4bee2ed3d5403ee2713da82/gardner1964.pdf)
+- [Ulam spiral ↗](https://en.wikipedia.org/wiki/Ulam_spiral)
 - [Pi and the primes: a pattern related to the Ulam spiral ↗](https://mathoverflow.net/questions/30864/pi-and-the-primes-a-pattern-related-to-the-ulam-spiral?rq=1)
 - [About a variant of Ulam spiral ↗](https://mathoverflow.net/questions/164520/about-a-variant-of-ulam-spiral)
