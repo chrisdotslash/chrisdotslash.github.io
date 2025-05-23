@@ -28,3 +28,7 @@ Below is a list of tech content I've read recently, in reverse chronological ord
 - [About a variant of Ulam spiral ↗](https://mathoverflow.net/questions/164520/about-a-variant-of-ulam-spiral)
 
 ### Education
+
+- [Bridging the Gap: Georgia Tech’s First Interdisciplinary B.S. to M.S. Pathway Program
+  ↗](https://www.scheller.gatech.edu/news/2025/bridging-the-gap-bs-to-ms-pathway.html)
+- [Denver coding school will close after ‘long period of struggle’ ↗](https://www.denverpost.com/2025/04/17/denver-coding-school-will-close/)
