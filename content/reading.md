@@ -26,3 +26,5 @@ Below is a list of tech content I've read recently, in reverse chronological ord
 - [Ulam spiral ↗](https://en.wikipedia.org/wiki/Ulam_spiral)
 - [Pi and the primes: a pattern related to the Ulam spiral ↗](https://mathoverflow.net/questions/30864/pi-and-the-primes-a-pattern-related-to-the-ulam-spiral?rq=1)
 - [About a variant of Ulam spiral ↗](https://mathoverflow.net/questions/164520/about-a-variant-of-ulam-spiral)
+
+### Education
