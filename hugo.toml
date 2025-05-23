@@ -2,6 +2,7 @@ baseURL = 'https://chriseborowski.github.io/mypage/'
 languageCode = 'en-us'
 title = 'Chris Borowski'
 theme = 'hugo-PaperMod'
+favicon = true
 
 [caches]
   [caches.images]
