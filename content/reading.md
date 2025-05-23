@@ -10,6 +10,8 @@ Below is a list of tech content I've read recently, in reverse chronological ord
 - [_Operating Systems_ ↗](https://pages.cs.wisc.edu/~remzi/OSTEP/) by Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau
 - [_Operating System Concepts_ ↗](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) by Abraham Silberschatz, Peter B. Galvin, Greg Gagne
 
+### Programming and Software Engineering Discussions
+
 ### Tech News and Stories
 
 - [Go Language at 13 Years: Ecosystem, Evolution, and Future with Steve Francia ↗](https://www.infoq.com/articles/go-language-13-years)
