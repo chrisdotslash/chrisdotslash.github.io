@@ -8,11 +8,24 @@
     <loc>http://localhost:1313/mypage/posts/my-first-post/</loc>
     <lastmod>2025-05-21T23:08:42-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mypage/posts/my-second-post/</loc>
+    <lastmod>2025-05-21T23:08:42-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mypage/posts/</loc>
     <lastmod>2025-05-21T23:08:42-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mypage/about/</loc>
+  </url><url>
     <loc>http://localhost:1313/mypage/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/mypage/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mypage/projects/</loc>
+  </url><url>
     <loc>http://localhost:1313/mypage/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mypage/learning/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mypage/reading/</loc>
   </url>
 </urlset>

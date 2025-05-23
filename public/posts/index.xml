@@ -14,6 +14,15 @@
       <pubDate>Wed, 21 May 2025 23:08:42 -0500</pubDate>
       <guid>http://localhost:1313/mypage/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Thanks for visiting!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/mypage/posts/my-second-post/</link>
+      <pubDate>Wed, 21 May 2025 23:08:42 -0500</pubDate>
+      <guid>http://localhost:1313/mypage/posts/my-second-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;</description>
     </item>
   </channel>

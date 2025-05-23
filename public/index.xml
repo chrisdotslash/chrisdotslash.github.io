@@ -14,7 +14,64 @@
       <pubDate>Wed, 21 May 2025 23:08:42 -0500</pubDate>
       <guid>http://localhost:1313/mypage/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Thanks for visiting!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/mypage/posts/my-second-post/</link>
+      <pubDate>Wed, 21 May 2025 23:08:42 -0500</pubDate>
+      <guid>http://localhost:1313/mypage/posts/my-second-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/mypage/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mypage/about/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;I’m a software engineer&lt;/strong&gt; with a strong foundation in Java, Python, SQL, and full-stack web development, built through rigorous computer science coursework focused on data structures, algorithms, software engineering, database management, computer architecture, and operating systems. My technical knowledge is reinforced by hands-on project experience applying modern development practices to build scalable, efficient applications across both front-end and back-end environments.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Most recently, I developed&lt;/strong&gt; a high-performance fintech application called &lt;a href=&#34;https://github.com/chriseborowski/walletone&#34;&gt;WalletOne&lt;/a&gt; using object-oriented programming, HashMaps, and in-memory data storage to achieve O(1) search complexity. I also built &lt;a href=&#34;https://github.com/chriseborowski/witter&#34;&gt;Witter&lt;/a&gt;, a full-stack Django web platform with RESTful API architecture, secure multi-state user authentication, and responsive Bootstrap UI, achieving a 99/100 Lighthouse performance score.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Me</title>
+      <link>http://localhost:1313/mypage/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mypage/contact/</guid>
+      <description>&lt;p&gt;Feel free to message me on &lt;a href=&#34;https://www.linkedin.com/in/chriseborowski/&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can also find me on &lt;a href=&#34;https://github.com/chriseborowski&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Projects</title>
+      <link>http://localhost:1313/mypage/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mypage/projects/</guid>
+      <description>&lt;p&gt;Feel free to message me.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Witter&lt;/strong&gt;
+&lt;em&gt;Full-stack social platform built with Django, RESTful API, and optimized performance&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A Django-powered social platform with robust user authentication, efficient database management, and scalable architecture. Features include user profiles, post sharing, real-time updates, geolocation, and file handling. Utilizes Django&amp;rsquo;s ORM, RESTful APIs, and template system. Implements best security practices and offers a customizable UI.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What I&#39;m Learning</title>
+      <link>http://localhost:1313/mypage/learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mypage/learning/</guid>
+      <description>&lt;p&gt;Below is a list of what I&amp;rsquo;ve been learning recently, in reverse chronological order.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;: a static site generator written in Go&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>What I&#39;m Reading</title>
+      <link>http://localhost:1313/mypage/reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mypage/reading/</guid>
+      <description>&lt;p&gt;Below is a list of tech content I&amp;rsquo;ve read recently, in reverse chronological order.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.infoq.com/articles/go-language-13-years&#34;&gt;Go Language at 13 Years: Ecosystem, Evolution, and Future with Steve Francia (InfoQ)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arstechnica.com/ai/2025/05/anthropic-calls-new-claude-4-worlds-best-ai-coding-model&#34;&gt;New Claude 4 AI model refactored code for 7 hours straight (Ars Technica)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/blog/products/management-tools/shrinking-the-time-to-mitigate-production-incidents&#34;&gt;Shrinking time to mitigate production incidents—CRE life lessons (Google Cloud Blog)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
