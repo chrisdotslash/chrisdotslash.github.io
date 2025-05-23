@@ -5,7 +5,7 @@ title = "My Projects"
 
 Below is a list of my most recent projects.
 
-**Witter**
+### Witter
 
 > _Full-stack social platform built with Django, RESTful API, and optimized performance._
 
@@ -13,11 +13,11 @@ A Django-powered social platform with robust user authentication, efficient data
 
 > **Tech stack**: Django, Python, RESTful API, SQLite, JavaScript, HTML, CSS, Bootstrap
 
-[GitHub repository](https://github.com/chriseborowski/witter)
+[GitHub repository ↗](https://github.com/chriseborowski/witter)
 
 ---
 
-**WalletOne**
+### WalletOne
 
 > _Java-based fintech virtual credit card management app with scalable algorithms._
 
@@ -25,4 +25,4 @@ A robust Java-based virtual credit card management system featuring constant-tim
 
 > **Tech stack**: Java
 
-[GitHub repository](https://github.com/chriseborowski/walletone)
+[GitHub repository ↗](https://github.com/chriseborowski/walletone)
