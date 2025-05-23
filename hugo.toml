@@ -8,10 +8,6 @@ favicon = 'https://github.com/chriseborowski/chriseborowski.github.io/blob/main/
   [caches.images]
     dir = ':cacheDir/images'
 
-[params]
-  [params.assets]
-    favicon = "https://github.com/chriseborowski/chriseborowski.github.io/blob/main/static/favicon.ico"
-
 [menus]
 
 # Main menu
