@@ -3,7 +3,7 @@ draft = false
 title = "What I'm Reading"
 +++
 
-Below is a list of tech content I've read recently, in reverse chronological order.
+My recent reads, in reverse chronological order. Recommended reads are in bold.
 
 ### Programming and CS Books
 
