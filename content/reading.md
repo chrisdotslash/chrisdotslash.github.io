@@ -16,8 +16,8 @@ My recent reads, in reverse chronological order. Recommended reads are in bold.
 
 ### Artificial Intelligence
 
-- [The 70% problem: Hard truths about AI-assisted coding ↗](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
-- [The End of Programming as We Know It ↗](https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/)
+- [**The 70% problem: Hard truths about AI-assisted coding** ↗](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
+- [**The End of Programming as We Know It** ↗](https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/)
 - [AI and Programming: The Beginning of a New Era ↗](https://www.oreilly.com/radar/ai-and-programming-the-beginning-of-a-new-era/)
 - [Vibe Coding, Vibe Checking, and Vibe Blogging ↗](https://www.oreilly.com/radar/vibe-coding-vibe-checking-and-vibe-blogging/)
 
