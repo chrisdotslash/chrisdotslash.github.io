@@ -14,6 +14,8 @@ Below is a list of tech content I've read recently, in reverse chronological ord
 
 - [Automatic Memory Management and Garbage Collection in Programming Languages ↗](https://www.linkedin.com/posts/christophberger1_til-there-are-entire-books-about-memory-activity-7326487852333076480-3N6H)
 
+### Artificial Intelligence
+
 ### Tech News and Stories
 
 - [Go Language at 13 Years: Ecosystem, Evolution, and Future with Steve Francia ↗](https://www.infoq.com/articles/go-language-13-years)
