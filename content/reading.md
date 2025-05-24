@@ -16,6 +16,10 @@ Below is a list of tech content I've read recently, in reverse chronological ord
 
 ### Artificial Intelligence
 
+- [The End of Programming as We Know It ↗](https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/)
+- [AI and Programming: The Beginning of a New Era ↗](https://www.oreilly.com/radar/ai-and-programming-the-beginning-of-a-new-era/)
+- [Vibe Coding, Vibe Checking, and Vibe Blogging ↗](https://www.oreilly.com/radar/vibe-coding-vibe-checking-and-vibe-blogging/)
+
 ### Tech News and Stories
 
 - [Go Language at 13 Years: Ecosystem, Evolution, and Future with Steve Francia ↗](https://www.infoq.com/articles/go-language-13-years)
