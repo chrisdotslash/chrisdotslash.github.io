@@ -28,7 +28,7 @@ My recent reads, in reverse chronological order. Recommended reads are in bold.
 - [New Claude 4 AI model refactored code for 7 hours straight ↗](https://arstechnica.com/ai/2025/05/anthropic-calls-new-claude-4-worlds-best-ai-coding-model)
 - [Shrinking time to mitigate production incidents—CRE life lessons ↗](https://cloud.google.com/blog/products/management-tools/shrinking-the-time-to-mitigate-production-incidents)
 
-### Mathematics
+### Mathematic
 
 - [**Mathematical Gambles: The Remarkable Lore of the Prime Numbers** ↗](https://2024.sci-hub.ru/1056/be114319c4bee2ed3d5403ee2713da82/gardner1964.pdf)
 - [**Ulam spiral** ↗](https://en.wikipedia.org/wiki/Ulam_spiral)
