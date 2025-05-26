@@ -15,7 +15,7 @@ My recent reads, in reverse chronological order. Recommended reads are in bold.
 - [At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work ↗](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html)
 - [Automatic Memory Management and Garbage Collection in Programming Languages ↗](https://www.linkedin.com/posts/christophberger1_til-there-are-entire-books-about-memory-activity-7326487852333076480-3N6H)
 
-### Artificial Intelligence
+### AI
 
 - [**The 70% problem: Hard truths about AI-assisted coding** ↗](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
 - [**The End of Programming as We Know It** ↗](https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/)
