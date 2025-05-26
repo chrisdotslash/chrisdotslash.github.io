@@ -10,7 +10,7 @@ My recent reads, in reverse chronological order. Recommended reads are in bold.
 - [_Operating Systems_ ↗](https://pages.cs.wisc.edu/~remzi/OSTEP/) by Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau
 - [_Operating System Concepts_ ↗](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) by Abraham Silberschatz, Peter B. Galvin, Greg Gagne
 
-### Programming and Software Engineering Discussions
+### Programming
 
 - [At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work ↗](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html)
 - [Automatic Memory Management and Garbage Collection in Programming Languages ↗](https://www.linkedin.com/posts/christophberger1_til-there-are-entire-books-about-memory-activity-7326487852333076480-3N6H)
