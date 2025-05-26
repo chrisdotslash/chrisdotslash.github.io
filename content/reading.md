@@ -15,7 +15,7 @@ My recent reads, in reverse chronological order. Recommended reads are in bold.
 - [At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work ↗](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html)
 - [Automatic Memory Management and Garbage Collection in Programming Languages ↗](https://www.linkedin.com/posts/christophberger1_til-there-are-entire-books-about-memory-activity-7326487852333076480-3N6H)
 
-### AI
+### Artificial Intelligence
 
 - [**The 70% problem: Hard truths about AI-assisted coding** ↗](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
 - [**The End of Programming as We Know It** ↗](https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/)
@@ -28,7 +28,7 @@ My recent reads, in reverse chronological order. Recommended reads are in bold.
 - [New Claude 4 AI model refactored code for 7 hours straight ↗](https://arstechnica.com/ai/2025/05/anthropic-calls-new-claude-4-worlds-best-ai-coding-model)
 - [Shrinking time to mitigate production incidents—CRE life lessons ↗](https://cloud.google.com/blog/products/management-tools/shrinking-the-time-to-mitigate-production-incidents)
 
-### Mathematic
+### Mathematics
 
 - [**Mathematical Gambles: The Remarkable Lore of the Prime Numbers** ↗](https://2024.sci-hub.ru/1056/be114319c4bee2ed3d5403ee2713da82/gardner1964.pdf)
 - [**Ulam spiral** ↗](https://en.wikipedia.org/wiki/Ulam_spiral)
