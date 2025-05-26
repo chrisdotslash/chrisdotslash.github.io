@@ -22,7 +22,7 @@ My recent reads, in reverse chronological order. Recommended reads are in bold.
 - [AI and Programming: The Beginning of a New Era ↗](https://www.oreilly.com/radar/ai-and-programming-the-beginning-of-a-new-era/)
 - [Vibe Coding, Vibe Checking, and Vibe Blogging ↗](https://www.oreilly.com/radar/vibe-coding-vibe-checking-and-vibe-blogging/)
 
-### Tech News and Stories
+### Tech
 
 - [Go Language at 13 Years: Ecosystem, Evolution, and Future with Steve Francia ↗](https://www.infoq.com/articles/go-language-13-years)
 - [New Claude 4 AI model refactored code for 7 hours straight ↗](https://arstechnica.com/ai/2025/05/anthropic-calls-new-claude-4-worlds-best-ai-coding-model)
