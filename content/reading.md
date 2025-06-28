@@ -12,12 +12,14 @@ My recent reads, in reverse chronological order. Recommended reads are in bold.
 
 ### Programming
 
+export PATH="/usr/local/bin:$PATH"
+
 - [At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work ↗](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html)
 - [Automatic Memory Management and Garbage Collection in Programming Languages ↗](https://www.linkedin.com/posts/christophberger1_til-there-are-entire-books-about-memory-activity-7326487852333076480-3N6H)
 
 ### AI
 
-- [How AI Agents Are Transforming Software Engineering and the Future of Product Development ↗](https://www.computer.org/csdl/magazine/co/2025/05/10970187/260SnIeoUUM)
+- [How AI Agents Are Transforming Software Engineering & the Future of Product Development ↗](https://www.computer.org/csdl/magazine/co/2025/05/10970187/260SnIeoUUM)
 - [Your Next Favorite App? The One You Make Yourself ↗](https://www.wsj.com/tech/ai/your-next-favorite-app-the-one-you-make-yourself-a6a84f5f)
 - [**The 70% problem: Hard truths about AI-assisted coding** ↗](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
 - [**The End of Programming as We Know It** ↗](https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/)
