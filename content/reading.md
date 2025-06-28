@@ -19,6 +19,7 @@ export PATH="/usr/local/bin:$PATH"
 
 ### AI
 
+- [AI is not good software. It is pretty good people. ↗](https://www.oneusefulthing.org/p/ai-is-not-good-software-it-is-pretty)
 - [How AI Agents Are Transforming Software Engineering & the Future of Product Development ↗](https://www.computer.org/csdl/magazine/co/2025/05/10970187/260SnIeoUUM)
 - [Your Next Favorite App? The One You Make Yourself ↗](https://www.wsj.com/tech/ai/your-next-favorite-app-the-one-you-make-yourself-a6a84f5f)
 - [**The 70% problem: Hard truths about AI-assisted coding** ↗](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
