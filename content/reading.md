@@ -12,6 +12,7 @@ My recent reads, in reverse chronological order. Recommended reads are in bold.
 
 ### Programming
 
+- [Peter Naur, Programming as Theory Building ↗](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 - [Uncle Sam wants you – to use memory-safe programming languages
   ↗](https://www.theregister.com/2025/06/27/cisa_nsa_call_formemory_safe_languages/)
 - [At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work ↗](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html)
