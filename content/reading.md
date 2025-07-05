@@ -31,6 +31,7 @@ My recent reads, in reverse chronological order. Recommended reads are in bold.
 
 ### Tech
 
+- [New Proof Dramatically Compresses Space Needed for Computation ↗](https://www.scientificamerican.com/article/new-proof-dramatically-compresses-space-needed-for-computation/)
 - [Go Language at 13 Years: Ecosystem, Evolution, and Future with Steve Francia ↗](https://www.infoq.com/articles/go-language-13-years)
 - [New Claude 4 AI model refactored code for 7 hours straight ↗](https://arstechnica.com/ai/2025/05/anthropic-calls-new-claude-4-worlds-best-ai-coding-model)
 - [Shrinking time to mitigate production incidents—CRE life lessons ↗](https://cloud.google.com/blog/products/management-tools/shrinking-the-time-to-mitigate-production-incidents)
