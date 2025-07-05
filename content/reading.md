@@ -20,6 +20,7 @@ My recent reads, in reverse chronological order. Recommended reads are in bold.
 
 ### AI
 
+- [Can AI Fix Buggy Code? Exploring the Use of Large Language Models in Automated Program Repair ↗](https://ieeexplore.ieee.org/document/11052844)
 - [What Isaac Asimov Reveals About Living with A.I. ↗](https://www.newyorker.com/culture/open-questions/what-isaac-asimov-reveals-about-living-with-ai)
 - [AI is not good software. It is pretty good people. ↗](https://www.oneusefulthing.org/p/ai-is-not-good-software-it-is-pretty)
 - [How AI Agents Are Transforming Software Engineering & the Future of Product Development ↗](https://www.computer.org/csdl/magazine/co/2025/05/10970187/260SnIeoUUM)
