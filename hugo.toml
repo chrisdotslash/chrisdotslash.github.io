@@ -2,7 +2,7 @@ baseURL = 'https://chrisdotslash.github.io/'
 languageCode = 'en-us'
 title = 'chris./'
 theme = 'hugo-PaperMod'
-favicon = 'https://github.com/chriseborowski/chriseborowski.github.io/blob/main/static/favicon.ico'
+favicon = '/assets/chrisdotslash_logo.png'
 
 [caches]
   [caches.images]
