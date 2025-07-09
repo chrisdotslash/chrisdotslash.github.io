@@ -3,6 +3,4 @@ draft = false
 title = "Contact Me"
 +++
 
-Feel free to message me on [LinkedIn ↗](https://www.linkedin.com/in/chriseborowski/).
-
-You can also find me on [GitHub ↗](https://github.com/chriseborowski).
+You can find me on [Threads ↗](https://www.threads.com/@chrisdotslash), [Reddit ↗](https://www.reddit.com/user/chrisdotslash/), or [GitHub ↗](https://github.com/chrisdotslash).
