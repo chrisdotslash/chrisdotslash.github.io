@@ -7,7 +7,7 @@ My recent reads, in reverse chronological order. Recommended reads are in bold.
 
 ### Books
 
-- [Co-Intelligence: Living and Working with AI ↗](https://www.goodreads.com/book/show/198678736-co-intelligence) by Ethan Mollick
+- [_Co-Intelligence: Living and Working with AI_ ↗](https://www.goodreads.com/book/show/198678736-co-intelligence) by Ethan Mollick
 - [_Operating Systems_ ↗](https://pages.cs.wisc.edu/~remzi/OSTEP/) by Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau
 - [_Operating System Concepts_ ↗](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) by Abraham Silberschatz, Peter B. Galvin, Greg Gagne
 
