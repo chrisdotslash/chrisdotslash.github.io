@@ -34,6 +34,7 @@ My recent reads, in reverse chronological order. Recommended reads are in bold.
 
 ### Tech
 
+- [The Pragmatic Engineer 2025 Survey: What’s in your tech stack? ↗](https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-2025-survey)
 - [Toward Sustainable Computer Systems ↗](https://www.computer.org/csdl/magazine/co/2024/02/10417834/1Ua1EJ1ZNSw)
 - [New Proof Dramatically Compresses Space Needed for Computation ↗](https://www.scientificamerican.com/article/new-proof-dramatically-compresses-space-needed-for-computation/)
 - [Go Language at 13 Years: Ecosystem, Evolution, and Future with Steve Francia ↗](https://www.infoq.com/articles/go-language-13-years)
