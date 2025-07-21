@@ -21,6 +21,7 @@ My recent reads, in reverse chronological order. Recommended reads are in bold.
 
 ### AI
 
+- [Georgia Tech to Build $20M National AI Supercomputer ↗](https://news.gatech.edu/news/2025/07/15/georgia-tech-build-20m-national-ai-supercomputer)
 - [Chinese researchers unveil MemOS, the first ‘memory operating system’ that gives AI human-like recall ↗](https://venturebeat.com/ai/chinese-researchers-unveil-memos-the-first-memory-operating-system-that-gives-ai-human-like-recall/)
 - [Can AI Fix Buggy Code? Exploring the Use of Large Language Models in Automated Program Repair ↗](https://ieeexplore.ieee.org/document/11052844)
 - [What Isaac Asimov Reveals About Living with A.I. ↗](https://www.newyorker.com/culture/open-questions/what-isaac-asimov-reveals-about-living-with-ai)
