@@ -21,6 +21,7 @@ My recent reads, in reverse chronological order. Recommended reads are in bold.
 
 ### AI
 
+- [Vibe coding service Replit deleted user’s production database, faked data, told fibs galore ↗](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/)
 - [AI is killing the web. Can anything save it? ↗](https://archive.ph/3Sp9L)
 - [Georgia Tech to Build $20M National AI Supercomputer ↗](https://news.gatech.edu/news/2025/07/15/georgia-tech-build-20m-national-ai-supercomputer)
 - [Chinese researchers unveil MemOS, the first ‘memory operating system’ that gives AI human-like recall ↗](https://venturebeat.com/ai/chinese-researchers-unveil-memos-the-first-memory-operating-system-that-gives-ai-human-like-recall/)
