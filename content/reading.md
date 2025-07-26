@@ -13,6 +13,7 @@ My recent reads, in reverse chronological order. Recommended reads are in bold.
 
 ### Programming
 
+- [The Brute Squad ↗](https://sourcegraph.com/blog/the-brute-squad)
 - [Faster Hash Tables and the Story Behind Their Breakthrough ↗](https://archive.ph/1QzYM)
 - [Peter Naur, Programming as Theory Building ↗](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 - [Uncle Sam wants you – to use memory-safe programming languages
