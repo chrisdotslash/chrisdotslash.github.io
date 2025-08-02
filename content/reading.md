@@ -13,6 +13,7 @@ My recent reads, in reverse chronological order. Recommended reads are in bold.
 
 ### Programming
 
+- [The End of Programming As We Know It ↗](https://podcasts.apple.com/us/podcast/episode-13-the-end-of-programming-as-we-know-it/id1774960199?i=1000701031250)
 - [The Brute Squad ↗](https://sourcegraph.com/blog/the-brute-squad)
 - [Faster Hash Tables and the Story Behind Their Breakthrough ↗](https://archive.ph/1QzYM)
 - [Peter Naur, Programming as Theory Building ↗](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
