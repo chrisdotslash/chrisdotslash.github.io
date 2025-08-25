@@ -13,6 +13,7 @@ My recent reads, in reverse chronological order. Recommended reads are in bold.
 
 ### Programming
 
+- [Five Myths about Hash Tables ↗](https://hughewilliams.com/2012/10/01/five-myths-about-hash-tables/)
 - [Firing Junior Developers Is Indeed the “Dumbest Thing” ↗](https://www.oreilly.com/radar/firing-junior-developers-is-indeed-the-dumbest-thing/)
 - [Seniors and Juniors: Maintaining Paths for Career Growth in an AI-Driven World ↗](https://www.oreilly.com/radar/seniors-and-juniors/)
 - [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity ↗](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
